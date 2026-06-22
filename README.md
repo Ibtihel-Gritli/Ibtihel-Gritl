@@ -8,8 +8,8 @@
 <!-- BADGES LIENS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Ibtihel--Gritli.github.io-1A3C6E?style=for-the-badge)](https://Ibtihel-Gritli.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Ibtihel--Gritli-2563A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Ibtihel--Gritli.github.io-1A3C6E?style=for-the-badge)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ibtihel--Gritli-2563A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli/Ibtihel-Gritl)
 [![Email](https://img.shields.io/badge/Email-ibtihellegritli@gmail.com-4F8EF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtihellegritli@gmail.com)
 [![Téléphone](https://img.shields.io/badge/📞_+216_50_835_459-Appeler-0D6EFD?style=for-the-badge)](tel:+21650835459)
 
@@ -244,8 +244,8 @@ Je développe des **applications web full-stack** intégrant des technologies mo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-1A3C6E?style=for-the-badge)](https://Ibtihel-Gritli.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Suivre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-1A3C6E?style=for-the-badge)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
+[![GitHub](https://img.shields.io/badge/GitHub-Suivre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli/Ibtihel-Gritl)
 [![Email](https://img.shields.io/badge/Gmail-Écrire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtihellegritli@gmail.com)
 
 </div>
