@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Profil&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Profil"/>
+## Profil
 
 **Full-Stack Developer** spécialisée en développement web et en intégration de solutions d'IA, avec une approche orientée vers la création d'applications complètes, de l'API aux interfaces interactives.
 
@@ -27,35 +27,35 @@ Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Nod
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Stack%20technique&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Stack technique"/>
+## Stack technique
 
 <div align="center">
 
 **Langages**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,js,php,c,cpp,cs&perline=7&theme=dark"><img src="https://skillicons.dev/icons?i=java,py,js,php,c,cpp,cs&perline=7&theme=light" alt="Langages"/></picture>
+<img src="https://skillicons.dev/icons?i=java,py,js,php,c,cpp,cs&perline=7" alt="Langages"/>
 
 **Frontend**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap&perline=5&theme=dark"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap&perline=5&theme=light" alt="Frontend"/></picture>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap&perline=5" alt="Frontend"/>
 
 **Backend**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4&theme=dark"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4&theme=light" alt="Backend"/></picture>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4" alt="Backend"/>
 
 **Bases de données**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark"><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=light" alt="Bases de données"/></picture><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Bases de données"/><br/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-0000BB?style=flat-square)
 
 **Outils**<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,eclipse&perline=6&theme=dark"><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,eclipse&perline=6&theme=light" alt="Outils"/></picture><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,eclipse&perline=6" alt="Outils"/><br/>
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket_/_STOMP-1A3C6E?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket_/_STOMP-010101?style=flat-square)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Projets&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Projets"/>
+## Projets
 
 ### Codify — Plateforme d'apprentissage de la programmation assistée par IA
 `PFA 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/Codify)
@@ -114,7 +114,7 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Expérience&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Expérience"/>
+## Expérience
 
 **Stage d'été 2026 — Stagiaire Développeur Full-Stack**
 **IT HOUSE** — Tunis (stage en ligne) · Juillet → Août 2026 · 1 mois
@@ -128,7 +128,7 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Statistiques%20GitHub&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Statistiques GitHub"/>
+## Statistiques GitHub
 
 <div align="center">
 
@@ -139,43 +139,51 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Éducation&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Éducation"/>
+## Éducation
 
 | Période | Formation | Établissement |
 |:--|:--|:--|
-| 2026 → | **Licence 3 GLSI** — Génie Logiciel & Systèmes d'Information *(en cours)* | FSM, Monastir |
-| 2025 – 2026 | **Licence 2 LGLSI** — Génie Logiciel & Systèmes d'Information | FSM, Monastir |
-| 2024 – 2025 | **Licence 1 LSI** — Systèmes d'Information | FSM, Monastir |
-| 2024 | **Baccalauréat Informatique**, mention Bien | Lycée El Bosten, Kélibia |
+| ![2026 → aujourd’hui](https://img.shields.io/badge/2026_%E2%86%92_aujourd%E2%80%99hui-4F8EF7?style=flat-square) ![En cours](https://img.shields.io/badge/En_cours-2E7D32?style=flat-square) | **Licence 3 GLSI**<br/>Génie Logiciel & Systèmes d'Information | Faculté des Sciences de Monastir |
+| ![2025 – 2026](https://img.shields.io/badge/2025_%E2%80%93_2026-1A3C6E?style=flat-square) | **Licence 2 LGLSI**<br/>Génie Logiciel & Systèmes d'Information | Faculté des Sciences de Monastir |
+| ![2024 – 2025](https://img.shields.io/badge/2024_%E2%80%93_2025-1A3C6E?style=flat-square) | **Licence 1 LSI**<br/>Systèmes d'Information | Faculté des Sciences de Monastir |
+| ![2024](https://img.shields.io/badge/2024-1A3C6E?style=flat-square) ![Mention Bien](https://img.shields.io/badge/Mention_Bien-F59E0B?style=flat-square) | **Baccalauréat Informatique** | Lycée El Bosten, Kélibia |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=44&section=header&text=Certifications%20%26%20Workshops&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=52" width="100%" alt="Certifications & Workshops"/>
+## Certifications
 
 | Certification | Organisme | Date |
 |:--|:--|:--:|
-| Fundamentals of Deep Learning | NVIDIA (Certificate of Competency) | Mars 2026 |
-| NDG Linux Unhatched | Cisco Networking Academy / FSM | Oct. 2024 |
-
-| Workshop | Organisme | Date |
-|:--|:--|:--:|
-| Workshop Cyber Security | IEEE CS Chapter FSM SB & CPU ISIMM | Fév. 2026 |
-| Workshop LinkedIn & CV Creation | IEEE FSM | Fév. 2026 |
-
-**Engagement associatif** : membre actif du club **ARSII FSM** · membre de **IEEE FSM, Computer Society** (2026)
+| **Fundamentals of Deep Learning**<br/>Certificate of Competency | ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Mars 2026](https://img.shields.io/badge/Mars_2026-4F8EF7?style=flat-square) |
+| **NDG Linux Unhatched**<br/>Formation Linux | ![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white) ![FSM](https://img.shields.io/badge/FSM-1A3C6E?style=flat-square) | ![Oct. 2024](https://img.shields.io/badge/Oct._2024-4F8EF7?style=flat-square) |
 
 <br/>
 
-<div align="center">
+## Workshops
 
-### Travaillons ensemble
+| Workshop | Organisme | Date |
+|:--|:--|:--:|
+| **Cyber Security**<br/>Atelier de cybersécurité | ![IEEE CS Chapter FSM SB](https://img.shields.io/badge/IEEE_CS_Chapter_FSM_SB-00629B?style=flat-square&logo=ieee&logoColor=white) ![CPU ISIMM](https://img.shields.io/badge/CPU_ISIMM-1A3C6E?style=flat-square) | ![Fév. 2026](https://img.shields.io/badge/F%C3%A9v._2026-4F8EF7?style=flat-square) |
+| **LinkedIn & CV Creation**<br/>Création de CV et de profil LinkedIn | ![IEEE FSM](https://img.shields.io/badge/IEEE_FSM-00629B?style=flat-square&logo=ieee&logoColor=white) | ![Fév. 2026](https://img.shields.io/badge/F%C3%A9v._2026-4F8EF7?style=flat-square) |
 
-Je suis disponible pour un **stage PFE** et un **poste Full-Stack**.
+![ARSII FSM](https://img.shields.io/badge/ARSII_FSM-1A3C6E?style=flat-square) ![IEEE FSM – Computer Society](https://img.shields.io/badge/IEEE_FSM_%E2%80%93_Computer_Society-00629B?style=flat-square&logo=ieee&logoColor=white) — membre actif des clubs (2026)
+
+<br/>
+
+## Me contacter
+
+![Disponible](https://img.shields.io/badge/Disponible-2E7D32?style=for-the-badge) **À la recherche d’un stage PFE en développement Full-Stack et intégration de l’IA**
+
+Je recherche un stage PFE en développement web, avec un intérêt particulier pour les projets Full-Stack intégrant des technologies d’intelligence artificielle. Je souhaite contribuer à la conception et au développement de solutions web modernes, innovantes et concrètes, tout en approfondissant mes compétences techniques au sein d’une équipe dynamique et d’un environnement professionnel stimulant.
+
+Mon objectif est d’évoluer vers un poste de Full-Stack Developer, en participant à la réalisation de projets à forte valeur ajoutée.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtihelle-gritli-b3563a322)
 [![Email](https://img.shields.io/badge/gritliibtihelle@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gritliibtihelle@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1A3C6E&height=100&section=footer" width="100%" alt=""/>
+<br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1A3C6E&height=100&section=footer" width="100%" alt=""/>
 </div>
