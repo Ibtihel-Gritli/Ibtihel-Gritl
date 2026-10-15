@@ -129,12 +129,15 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 ## Expérience
 
-**Stagiaire Développeuse Full-Stack** — IT HOUSE, Tunis · *Juillet – Août 2026*
+**Stage d'été 2026 — Stagiaire Développeur Full-Stack**
+**IT HOUSE** — Rue de Carthage, Centre-ville, Tunis · Juillet → Août 2026 · 1 mois
 
-- Développement de la plateforme **EduInsight** avec l'architecture MERN
-- Implémentation d'API REST avec Node.js et Express.js (routes, middlewares)
-- Création d'interfaces React.js (composants, hooks, JSX)
-- Intégration de MongoDB au backend
+- Développé la plateforme éducative **EduInsight** avec l'architecture MERN, en intégrant les composants frontend, backend et base de données pour construire une solution d'apprentissage web complète
+- Implémenté des **API REST** avec Node.js et Express.js, en structurant les routes et middlewares pour assurer la prise en charge des fonctionnalités de la plateforme
+- Créé des interfaces web dynamiques avec **React.js**, en combinant composants, hooks et JSX pour proposer des fonctionnalités interactives et modulaires
+- Structuré la gestion des données avec **MongoDB** et intégré la base NoSQL au backend afin d'assurer la communication entre les données et les fonctionnalités de l'application
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
@@ -149,7 +152,7 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 ---
 
-## Formation et certifications
+## Éducation
 
 | Période | Formation | Établissement |
 |:--|:--|:--|
@@ -158,12 +161,25 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 | 2024 – 2025 | **Licence 1 LSI** — Systèmes d'Information | FSM, Monastir |
 | 2024 | **Baccalauréat Informatique**, mention Bien | Lycée El Bosten, Kélibia |
 
+---
+
+## Certifications
+
 | Certification | Organisme | Date |
 |:--|:--|:--:|
-| Fundamentals of Deep Learning | NVIDIA | Mars 2026 |
+| Fundamentals of Deep Learning | NVIDIA (Certificate of Competency) | Mars 2026 |
+| NDG Linux Unhatched | Cisco Networking Academy / FSM | Oct. 2024 |
+
+---
+
+## Workshops
+
+| Workshop | Organisme | Date |
+|:--|:--|:--:|
 | Workshop Cyber Security | IEEE CS Chapter FSM SB & CPU ISIMM | Fév. 2026 |
 | Workshop LinkedIn & CV Creation | IEEE FSM | Fév. 2026 |
-| NDG Linux Unhatched | Cisco Networking Academy / FSM | Oct. 2024 |
+
+---
 
 **Engagement associatif** : membre actif du club **ARSII FSM** · membre de **IEEE FSM, Computer Society** (2026)
 
