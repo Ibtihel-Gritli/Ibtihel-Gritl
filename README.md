@@ -17,7 +17,7 @@
 
 ---
 
-## Résumé professionnel
+## Profil
 
 **Full-Stack Developer** spécialisée en développement web et en intégration de solutions d'IA, avec une approche orientée vers la création d'applications complètes, de l'API aux interfaces interactives.
 
