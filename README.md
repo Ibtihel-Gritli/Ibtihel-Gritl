@@ -17,7 +17,8 @@
 
 <br/>
 
-## Profil
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Profil&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Profil"/>
+
 
 **Full-Stack Developer** spécialisée en développement web et en intégration de solutions d'IA, avec une approche orientée vers la création d'applications complètes, de l'API aux interfaces interactives.
 
@@ -27,7 +28,8 @@ Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Nod
 
 <br/>
 
-## Stack technique
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Stack%20technique&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Stack technique"/>
+
 
 <div align="center">
 
@@ -55,7 +57,8 @@ Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Nod
 
 <br/>
 
-## Projets
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Projets&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Projets"/>
+
 
 ### Codify — Plateforme d'apprentissage de la programmation assistée par IA
 `PFA 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/Codify)
@@ -114,7 +117,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Expérience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Exp%C3%A9rience&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Expérience"/>
+
 
 **Stage d'été 2026 — Stagiaire Développeur Full-Stack**
 **IT HOUSE** — Tunis (stage en ligne) · Juillet → Août 2026 · 1 mois
@@ -128,7 +132,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Statistiques GitHub
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Statistiques%20GitHub&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Statistiques GitHub"/>
+
 
 <div align="center">
 
@@ -139,7 +144,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Éducation
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=%C3%89ducation&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Éducation"/>
+
 
 | Période | Formation | Établissement |
 |:--|:--|:--|
@@ -150,7 +156,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Certifications&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Certifications"/>
+
 
 | Certification | Organisme | Date |
 |:--|:--|:--:|
@@ -159,7 +166,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Workshops
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Workshops&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Workshops"/>
+
 
 | Workshop | Organisme | Date |
 |:--|:--|:--:|
@@ -170,7 +178,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <br/>
 
-## Me contacter
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Me%20contacter&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Me contacter"/>
+
 
 ![Disponible](https://img.shields.io/badge/Disponible-2E7D32?style=for-the-badge) **À la recherche d’un stage PFE en développement Full-Stack et intégration de l’IA**
 
