@@ -17,26 +17,13 @@
 
 ---
 
-## Profil
+## Résumé professionnel
 
-| | |
-|:--|:--|
-| **Poste visé** | Full-Stack Developer — développement web et intégration de solutions d'IA |
-| **Formation** | Licence 3 Génie Logiciel & Systèmes d'Information, Faculté des Sciences de Monastir (FSM) |
-| **Recherche** | Stage PFE en développement web Full-Stack et IA, puis poste de Full-Stack Developer / Software Engineer |
-| **Localisation** | Tunisie |
-| **Langues** | Arabe (maternelle) · Français (courant) · Anglais (intermédiaire) |
+**Full-Stack Developer** spécialisée en développement web et en intégration de solutions d'IA, avec une approche orientée vers la création d'applications complètes, de l'API aux interfaces interactives.
 
-## À propos
+Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Node.js, Express.js, MongoDB, Java et Spring Boot**. Mon expérience couvre le développement d'API REST, l'intégration de bases de données, la conception d'interfaces web dynamiques et la sécurisation des applications avec **JWT et Spring Security**. J'ai travaillé avec l'architecture **MERN** et avec des architectures backend en couches basées sur Spring Data JPA.
 
-Je conçois des applications web complètes, de l'**API** jusqu'aux **interfaces interactives**, avec une attention particulière à la sécurité, à la structure du code et à l'expérience utilisateur.
-
-- **Full-Stack** : React.js, Next.js, Node.js, Express.js, Spring Boot 3
-- **Architecture** : MERN, backend en couches avec Spring Data JPA, API REST documentées avec Swagger
-- **Sécurité** : JWT, access et refresh tokens, Spring Security, autorisations par rôles
-- **IA** : intégration de l'API Groq (Llama 3.3-70B) pour l'analyse, la correction et l'optimisation de code
-- **Temps réel** : WebSocket / STOMP
-- **Méthode** : Scrum, UML, Git
+Étudiante en Licence 3 Génie Logiciel & Systèmes d'Information à la Faculté des Sciences de Monastir, je cible un **stage PFE en développement web**, sur des missions Full-Stack combinant développement logiciel et technologies d'IA, dans un environnement technique international. À terme, je souhaite évoluer vers un poste de **Full-Stack Developer / Software Engineer**.
 
 ---
 
