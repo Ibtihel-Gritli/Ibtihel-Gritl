@@ -1,5 +1,0 @@
-/* Fallback styles when JavaScript is disabled */
-#page-loader{display:none}
-body.is-loading{overflow:auto}
-.hero-word .word-mask>span{transform:none}
-.lanyard{transform:translate(-50%,0)}
