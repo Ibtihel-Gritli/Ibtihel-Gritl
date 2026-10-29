@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C6E,100:4F8EF7&height=220&section=header&text=Ibtihel%20Gritli&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Integration&descSize=22&descAlignY=60&descColor=EAF2FF" width="100%" alt="Ibtihel Gritli"/>
 
@@ -137,8 +138,14 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=true&bg_color=15233F&title_color=8DB3FF&text_color=D6E4F0&icon_color=4F8EF7"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=false&border_color=D6E4F0&bg_color=F5F9FF&title_color=1A3C6E&text_color=334155&icon_color=4F8EF7" alt="GitHub"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-Gritli&layout=compact&hide_border=true&bg_color=15233F&title_color=8DB3FF&text_color=D6E4F0&icon_color=4F8EF7"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-Gritli&layout=compact&hide_border=false&border_color=D6E4F0&bg_color=F5F9FF&title_color=1A3C6E&text_color=334155&icon_color=4F8EF7" alt="GitHub"/></picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=true&bg_color=15233F&title_color=8DB3FF&text_color=D6E4F0&icon_color=4F8EF7">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=false&border_color=D6E4F0&bg_color=F5F9FF&title_color=1A3C6E&text_color=334155&icon_color=4F8EF7" alt="GitHub"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-Gritli&layout=compact&hide_border=true&bg_color=15233F&title_color=8DB3FF&text_color=D6E4F0&icon_color=4F8EF7">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtihel-Gritli&layout=compact&hide_border=false&border_color=D6E4F0&bg_color=F5F9FF&title_color=1A3C6E&text_color=334155&icon_color=4F8EF7" alt="GitHub"/>
+</picture>
 
 </div>
 
@@ -150,7 +157,7 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 |:--|:--|:--|
 | ![2026 → aujourd’hui](https://img.shields.io/badge/2026_%E2%86%92_aujourd%E2%80%99hui-4F8EF7?style=flat-square) ![En cours](https://img.shields.io/badge/En_cours-2E7D32?style=flat-square) | **Licence 3 GLSI**<br/>Génie Logiciel & Systèmes d'Information | Faculté des Sciences de Monastir |
 | ![2025 – 2026](https://img.shields.io/badge/2025_%E2%80%93_2026-1A3C6E?style=flat-square) | **Licence 2 LGLSI**<br/>Génie Logiciel & Systèmes d'Information | Faculté des Sciences de Monastir |
-| ![2024 – 2025](https://img.shields.io/badge/2024_%E2%80%93_2025-1A3C6E?style=flat-square) | **Licence 1 LSI**<br/>Systèmes d'Information | Faculté des Sciences de Monastir |
+| ![2024 – 2025](https://img.shields.io/badge/2025_%E2%80%93_2026-1A3C6E?style=flat-square) | **Licence 1 LSI**<br/>Systèmes d'Information | Faculté des Sciences de Monastir |
 | ![2024](https://img.shields.io/badge/2024-1A3C6E?style=flat-square) ![Mention Bien](https://img.shields.io/badge/Mention_Bien-F59E0B?style=flat-square) | **Baccalauréat Informatique** | Lycée El Bosten, Kélibia |
 
 <br/>
@@ -161,8 +168,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 |:--|:--|:--:|
 | **Fundamentals of Deep Learning**<br/>Certificate of Competency | ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Mars 2026](https://img.shields.io/badge/Mars_2026-4F8EF7?style=flat-square) |
 | **NDG Linux Unhatched**<br/>Formation Linux | ![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white) ![FSM](https://img.shields.io/badge/FSM-1A3C6E?style=flat-square) | ![Oct. 2024](https://img.shields.io/badge/Oct._2024-4F8EF7?style=flat-square) |
-| **Introduction to Amazon EC2**<br/>Introduction à Amazon EC2 (français) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
-| **Introduction to Amazon Simple Storage Service (S3)**<br/>Introduction à Amazon S3 (français) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
+| **Introduction to Amazon EC2**<br/>Introduction à Amazon EC2 (français) | ![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
+| **Introduction to Amazon Simple Storage Service (S3)**<br/>Introduction à Amazon S3 (français) | ![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
 
 <br/>
 
@@ -186,7 +193,8 @@ Je recherche un stage PFE en développement web, avec un intérêt particulier p
 Mon objectif est d’évoluer vers un poste de Full-Stack Developer, en participant à la réalisation de projets à forte valeur ajoutée.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtihelle-gritli-b3563a322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtihelle-gritli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli)
 [![Email](https://img.shields.io/badge/gritliibtihelle@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gritliibtihelle@gmail.com)
 
 <br/>
