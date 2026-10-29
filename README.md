@@ -1,9 +1,9 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C6E,100:4F8EF7&height=220&section=header&text=Ibtihel%20Gritli&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Integration&descSize=22&descAlignY=60&descColor=EAF2FF" width="100%" alt="Ibtihel Gritli"/>
 
 <a href="https://github.com/Ibtihel-Gritli">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=4F8EF7&center=true&vCenter=true&width=760&lines=Computer+Science+Student+%7C+Full-Stack+Developer;Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+Next.js;AI+Integration+%E2%80%A2+REST+APIs+%E2%80%A2+Secure+Web+Apps;Building+Scalable+%26+High-Performance+Web+Applications" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=4F8EF7&center=true&vCenter=true&width=760&lines=Computer+Science+Student+%7C+Full-Stack+Developer;Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+Next.js;AI+Integration+%E2%80%A2+REST+APIs+%E2%80%A2+Secure+Web+Apps;Building+Scalable+%26+High-Performance+Web+Applications" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -19,7 +19,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Profil&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Profil"/>
 
-
 **Full-Stack Developer** spécialisée en développement web et en intégration de solutions d'IA, avec une approche orientée vers la création d'applications complètes, de l'API aux interfaces interactives.
 
 Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Node.js, Express.js, MongoDB, Java et Spring Boot**. Mon expérience couvre le développement d'API REST, l'intégration de bases de données, la conception d'interfaces web dynamiques et la sécurisation des applications avec **JWT et Spring Security**. J'ai travaillé avec l'architecture **MERN** et avec des architectures backend en couches basées sur Spring Data JPA.
@@ -29,7 +28,6 @@ Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Nod
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Stack%20technique&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Stack technique"/>
-
 
 <div align="center">
 
@@ -59,8 +57,8 @@ Je développe des solutions Full-Stack avec **React.js, Next.js, JavaScript, Nod
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Projets&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Projets"/>
 
-
 ### Codify — Plateforme d'apprentissage de la programmation assistée par IA
+
 `PFA 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/Codify)
 
 Conception et développement d'une plateforme Full-Stack assistée par IA pour apprendre à programmer.
@@ -76,6 +74,7 @@ Conception et développement d'une plateforme Full-Stack assistée par IA pour a
 ---
 
 ### ShopFlow — Plateforme e-commerce Full-Stack
+
 `Projet académique 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/ShopFlow-)
 
 Plateforme e-commerce avec trois rôles (**Admin, Vendeur, Client**) : produits, panier, commandes, avis et promotions par coupons.
@@ -91,6 +90,7 @@ Plateforme e-commerce avec trois rôles (**Admin, Vendeur, Client**) : produits,
 ---
 
 ### EduInsight — Plateforme éducative Full-Stack (MERN)
+
 `Stage IT HOUSE 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/EduInsight)
 
 Plateforme éducative web basée sur l'architecture **MERN**.
@@ -105,6 +105,7 @@ Plateforme éducative web basée sur l'architecture **MERN**.
 ---
 
 ### Golden Service — Plateforme de services en ligne
+
 `Projet académique 2026` · [Voir le code](https://github.com/Ibtihel-Gritli/Golden-Service)
 
 Plateforme web responsive dédiée à l'achat et à la vente de services en ligne.
@@ -119,8 +120,8 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Exp%C3%A9rience&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Expérience"/>
 
-
 **Stage d'été 2026 — Stagiaire Développeur Full-Stack**
+
 **IT HOUSE** — Tunis (stage en ligne) · Juillet → Août 2026 · 1 mois
 
 - Développé la plateforme éducative **EduInsight** avec l'architecture MERN, en intégrant les composants frontend, backend et base de données pour construire une solution d'apprentissage web complète
@@ -134,7 +135,6 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Statistiques%20GitHub&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Statistiques GitHub"/>
 
-
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=true&bg_color=15233F&title_color=8DB3FF&text_color=D6E4F0&icon_color=4F8EF7"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibtihel-Gritli&show_icons=true&hide_border=false&border_color=D6E4F0&bg_color=F5F9FF&title_color=1A3C6E&text_color=334155&icon_color=4F8EF7" alt="GitHub"/></picture>
@@ -145,7 +145,6 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=%C3%89ducation&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Éducation"/>
-
 
 | Période | Formation | Établissement |
 |:--|:--|:--|
@@ -158,16 +157,16 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Certifications&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Certifications"/>
 
-
 | Certification | Organisme | Date |
 |:--|:--|:--:|
 | **Fundamentals of Deep Learning**<br/>Certificate of Competency | ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Mars 2026](https://img.shields.io/badge/Mars_2026-4F8EF7?style=flat-square) |
 | **NDG Linux Unhatched**<br/>Formation Linux | ![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white) ![FSM](https://img.shields.io/badge/FSM-1A3C6E?style=flat-square) | ![Oct. 2024](https://img.shields.io/badge/Oct._2024-4F8EF7?style=flat-square) |
+| **Introduction to Amazon EC2**<br/>Introduction à Amazon EC2 (français) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
+| **Introduction to Amazon Simple Storage Service (S3)**<br/>Introduction à Amazon S3 (français) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Oct. 2026](https://img.shields.io/badge/Oct._2026-4F8EF7?style=flat-square) |
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Workshops&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Workshops"/>
-
 
 | Workshop | Organisme | Date |
 |:--|:--|:--:|
@@ -179,7 +178,6 @@ Plateforme web responsive dédiée à l'achat et à la vente de services en lign
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3C6E,100:4F8EF7&height=56&section=header&text=Me%20contacter&fontSize=24&fontColor=ffffff&fontAlignY=52" width="100%" alt="Me contacter"/>
-
 
 ![Disponible](https://img.shields.io/badge/Disponible-2E7D32?style=for-the-badge) **À la recherche d’un stage PFE en développement Full-Stack et intégration de l’IA**
 
