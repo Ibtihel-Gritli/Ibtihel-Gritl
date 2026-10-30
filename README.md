@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Ibtihel-Gritli/Ibtihel-Gritli.git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtihelle-gritli-b3563a322)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gritliibtihelle@gmail.com)
 [![Open to work](https://img.shields.io/badge/Open_to-PFE_Internship_%26_Full--Stack_Role-2E7D32?style=for-the-badge)](mailto:gritliibtihelle@gmail.com)
@@ -192,7 +192,7 @@ Je recherche un stage PFE en développement web, avec un intérêt particulier p
 
 Mon objectif est d’évoluer vers un poste de Full-Stack Developer, en participant à la réalisation de projets à forte valeur ajoutée.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibtihel-gritli.github.io/Ibtihel-Gritl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3C6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Ibtihel-Gritli/Ibtihel-Gritli.git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtihelle-gritli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibtihel-Gritli)
 [![Email](https://img.shields.io/badge/gritliibtihelle@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gritliibtihelle@gmail.com)
